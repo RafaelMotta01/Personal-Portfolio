@@ -231,7 +231,27 @@ span.wave {
       display: inline;
       padding: 0%;
   }
+    
+  .sanofi{
+    max-width: 100%;
+    width : 30%;
+    height: 30%;
+    padding-bottom: 7%;
+  }
 
+  .serasa{
+    max-width: 100%;
+    width : 30%;
+    height: 30%;
+    padding-bottom: 7%;
+  }
+
+  .itau{
+    max-width: 100%;
+    width : 30%;
+    height: 30%;
+    padding-bottom: 7%;
+  }
 
   .numpy{
     max-width: 100%;
