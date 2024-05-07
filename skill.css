@@ -305,13 +305,15 @@ to {
 }
 to {
     width: 85%}
-}#Skill-SQL {
+}
+
+#Skill-SQL {
     animation: Animate-SQL 4s;
     -webkit-animation: Animate-SQL 4s;
     -moz-animation: Animate-SQL 4s;
     -o-animation: Animate-SQL 4s;
     border-radius:20px;
-    width: 80%;
+    width: 90%;
     height: 50px;
     position: absolute;
     background-color: #6c63ff;
@@ -321,26 +323,212 @@ to {
     width: 10px;
 }
 to {
-    width: 80%}
+    width: 90%}
 }@-webkit-keyframes Animate-SQL {
     from {
     width: 10px;
 }
 to {
-    width: 80%}
+    width: 90%}
 }@-moz-keyframes Animate-SQL {
     from {
     width: 10px;
 }
 to {
-    width: 80%}
+    width: 90%}
 }@-o-keyframes Animate-SQL {
     from {
     width: 10px;
 }
 to {
-    width: 80%}
+    width: 90%}
 }
+
+#Skill-AWS {
+    animation: Animate-AWS 4s;
+    -webkit-animation: Animate-AWS 4s;
+    -moz-animation: Animate-AWS 4s;
+    -o-animation: Animate-AWS 4s;
+    border-radius:20px;
+    width: 70%;
+    height: 50px;
+    position: absolute;
+    background-color: #6c63ff;
+}
+@keyframes Animate-AWS {
+    from {
+    width: 10px;
+}
+to {
+    width: 70%}
+}@-webkit-keyframes Animate-AWS {
+    from {
+    width: 10px;
+}
+to {
+    width: 70%}
+}@-moz-keyframes Animate-AWS {
+    from {
+    width: 10px;
+}
+to {
+    width: 70%}
+}@-o-keyframes Animate-AWS {
+    from {
+    width: 10px;
+}
+to {
+    width: 70%}
+}
+
+#Skill-SPARK {
+    animation: Animate-SPARK 4s;
+    -webkit-animation: Animate-SPARK 4s;
+    -moz-animation: Animate-SPARK 4s;
+    -o-animation: Animate-SPARK 4s;
+    border-radius:20px;
+    width: 70%;
+    height: 50px;
+    position: absolute;
+    background-color: #6c63ff;
+}
+@keyframes Animate-SPARK {
+    from {
+    width: 10px;
+}
+to {
+    width: 70%}
+}@-webkit-keyframes Animate-SPARK {
+    from {
+    width: 10px;
+}
+to {
+    width: 70%}
+}@-moz-keyframes Animate-SPARK {
+    from {
+    width: 10px;
+}
+to {
+    width: 70%}
+}@-o-keyframes Animate-SPARK {
+    from {
+    width: 10px;
+}
+to {
+    width: 70%}
+}
+
+#Skill-SAS {
+    animation: Animate-SAS 4s;
+    -webkit-animation: Animate-SAS 4s;
+    -moz-animation: Animate-SAS 4s;
+    -o-animation: Animate-SAS 4s;
+    border-radius:20px;
+    width: 90%;
+    height: 50px;
+    position: absolute;
+    background-color: #6c63ff;
+}
+@keyframes Animate-SAS {
+    from {
+    width: 10px;
+}
+to {
+    width: 90%}
+}@-webkit-keyframes Animate-SAS {
+    from {
+    width: 10px;
+}
+to {
+    width: 90%}
+}@-moz-keyframes Animate-SAS {
+    from {
+    width: 10px;
+}
+to {
+    width: 90%}
+}@-o-keyframes Animate-SAS {
+    from {
+    width: 10px;
+}
+to {
+    width: 90%}
+}
+
+#Skill-Tableau {
+    animation: Animate-Tableau 4s;
+    -webkit-animation: Animate-Tableau 4s;
+    -moz-animation: Animate-Tableau 4s;
+    -o-animation: Animate-Tableau 4s;
+    border-radius:20px;
+    width: 45%;
+    height: 50px;
+    position: absolute;
+    background-color: #6c63ff;
+}
+@keyframes Animate-Tableau {
+    from {
+    width: 10px;
+}
+to {
+    width: 45%}
+}@-webkit-keyframes Animate-Tableau {
+    from {
+    width: 10px;
+}
+to {
+    width: 45%}
+}@-moz-keyframes Animate-Tableau {
+    from {
+    width: 10px;
+}
+to {
+    width: 45%}
+}@-o-keyframes Animate-Tableau {
+    from {
+    width: 10px;
+}
+to {
+    width: 45%}
+}
+
+#Skill-Tera {
+    animation: Animate-Tera 4s;
+    -webkit-animation: Animate-Tera 4s;
+    -moz-animation: Animate-Tera 4s;
+    -o-animation: Animate-Tera 4s;
+    border-radius:20px;
+    width: 85%;
+    height: 50px;
+    position: absolute;
+    background-color: #6c63ff;
+}
+@keyframes Animate-Tera {
+    from {
+    width: 10px;
+}
+to {
+    width: 85%}
+}@-webkit-keyframes Animate-Tera {
+    from {
+    width: 10px;
+}
+to {
+    width: 85%}
+}@-moz-keyframes Animate-Tera {
+    from {
+    width: 10px;
+}
+to {
+    width: 45%}
+}@-o-keyframes Animate-Tera {
+    from {
+    width: 10px;
+}
+to {
+    width: 85%}
+}
+
 .Skill-Area {
     z-index: 1;
     float: left;
