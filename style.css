@@ -207,7 +207,7 @@ span.wave {
   }
 
   .Feature-second-image{
-      padding : 5% 30% 0;
+      padding : 5% 2% 0;
   }
 
 
@@ -215,8 +215,8 @@ span.wave {
 
 
   .Feature-svg-image{
-      width: 100%;
-      height:100%;
+      width: 70%;
+      height:70%;
   }
   .Feature-svg-image-3{
     width: 84%;
@@ -233,18 +233,18 @@ span.wave {
   }
     
   .sanofi{
-      height: 10%;
-      width: 10%;
+      height: 15%;
+      width: 15%;
   }
 
   .serasa{
-      height: 10%;
-      width: 10%;
+      height: 15%;
+      width: 15%;
   }
 
   .itau{
-      height: 10%;
-      width: 10%;
+      height: 15%;
+      width: 15%;
   }
 
   .numpy{
