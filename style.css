@@ -15,11 +15,15 @@ p{
     text-decoration: none;
   }
 
-  @font-face{
+  /*@font-face{
     font-family: "Lovely Home";
     src:local('Lovely Home'), 
     url("Image/LovelyHome-9aBZ.ttf") format('truetype');
 
+  }*/
+
+  @font-face{
+    font-family: "Gill Sans Extrabold", Helvetica, sans-serif;
   }
 
 .brand-name ,.navbar-light .navbar-brand{
