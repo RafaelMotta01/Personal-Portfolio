@@ -233,24 +233,18 @@ span.wave {
   }
     
   .sanofi{
-    max-width: 15%;
-    width : 15%;
-    height: 15%;
-    padding-bottom: 7%;
+      height: auto;
+      width: 100%;
   }
 
   .serasa{
-    max-width: 15%;
-    width : 15%;
-    height: 15%;
-    padding-bottom: 7%;
+      height: auto;
+      width: 100%;
   }
 
   .itau{
-    max-width: 15%;
-    width : 15%;
-    height: 15%;
-    padding-bottom: 7%;
+      height: auto;
+      width: 100%;
   }
 
   .numpy{
