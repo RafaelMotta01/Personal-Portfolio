@@ -263,6 +263,33 @@ span.wave {
     padding-left :0;
   }
 
+  .aws{
+    max-width: 100%;
+    max-height: 100%;
+    width : 23%;
+    height: 15%;
+    padding-bottom: 7%;
+    padding-left :0;
+  }
+
+  .spark{
+    max-width: 100%;
+    max-height: 100%;
+    width : 23%;
+    height: 15%;
+    padding-bottom: 7%;
+    padding-left :0;
+  }
+
+  .books{
+    max-width: 100%;
+    max-height: 100%;
+    width : 30%;
+    height: 30%;
+    padding-bottom: 7%;
+    padding-left :0;
+  }
+
   li{
     display: inline;
   }
